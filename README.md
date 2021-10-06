@@ -1,2 +1,2 @@
 # Predict-Word
-predict word using trigram but you should download any arabic corps
+predict word using trigram but you should download any arabic corpus
